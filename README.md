@@ -1,4 +1,8 @@
-# All-Shot Class Incremental Learning Across DataRegimes: From Low-Shot to High-Shot Scenarios
+# All-Shot Class Incremental Learning Across Data Regimes: From Low-Shot to High-Shot Scenarios
+
+This repository contains the official implementation of the paper:
+
+**"All-Shot Class Incremental Learning Across Data Regimes: From Low-Shot to High-Shot Scenarios"**
 
 ### Create Environment
 
